@@ -1,16 +1,17 @@
-## Hi there 👋
+###
 
-<!--
-**leorickk/leorickk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" height="40" alt="ChatGPT logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" width="40" alt="Claude logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="Gemini logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" height="40" alt="DeepSeek logo" />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=150&section=footer&animation=twinkling" width="100%" alt="Animated wave" />
+</p>
